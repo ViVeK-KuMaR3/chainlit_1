@@ -1,3 +1,5 @@
 langchain
 tiktoken
 chromadb
+chainlit
+openai
